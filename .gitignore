@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Database & results
+*.db
+*.sqlite
+results/
+
+# Environment variables (API keys etc)
+.env
+
+# VS Code settings
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
